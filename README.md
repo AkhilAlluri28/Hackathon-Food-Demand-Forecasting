@@ -1,0 +1,2 @@
+# Hackathon-Food-Demand-Forecasting
+Problem statement is to solve wastage or shortage of food materials in fulfillment centers by forecasting demand for upcoming weeks so that these centers will plan the stock of raw materials accordingly. More info about hackathon, train and test data sets can be found at  https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/#ProblemStatement
